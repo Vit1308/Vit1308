@@ -1,8 +1,8 @@
 _Olá_
 
-**Meu nome é Vitor Augusto**
+_Eu estou aprendendo com alura e estou usando esse espaço para mostrar meus projetos_
 
-Eu estou aprendendo com alura e estou usando esse espaço para mostrar meus projetos
+**Meu nome é Vitor Augusto**
 
 Você pode entrar em contato comigo pelo o e-mail: freitasvitor@gmail.com
 
